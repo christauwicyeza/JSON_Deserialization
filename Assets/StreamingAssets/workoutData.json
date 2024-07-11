@@ -1,0 +1,324 @@
+{ "ProjectName": "JSON Deserialization",
+  "numberOfWorkoutBalls": 9,
+  "workoutInfo": [
+    {
+      "workoutID": 1,
+      "workoutName": "Workout 1 - Roll workout",
+      "description": "9 Rolling balls - 3 grounders to the right. 3 grounders to the center. 3 grounders to the left.",
+      "ballType": "rolling ball",
+      "workoutDetails": [
+        {
+          "ballId": 1001,
+          "speed": 18.0,
+          "ballDirection": 0.5
+        },
+        {
+          "ballId": 1002,
+          "speed": 22.0,
+          "ballDirection": 0
+        },
+        {
+          "ballId": 1003,
+          "speed": 20.0,
+          "ballDirection": -0.5
+        },
+        {
+          "ballId": 1004,
+          "speed": 24.0,
+          "ballDirection": 0.5
+        },
+        {
+          "ballId": 1005,
+          "speed": 18.0,
+          "ballDirection": -0.5
+        },
+        {
+          "ballId": 1006,
+          "speed": 26.0,
+          "ballDirection": 0
+        },
+        {
+          "ballId": 1007,
+          "speed": 24.0,
+          "ballDirection": 0.5
+        },
+        {
+          "ballId": 1008,
+          "speed": 18.0,
+          "ballDirection": -0.5
+        },
+        {
+          "ballId": 1009,
+          "speed": 26.0,
+          "ballDirection": 0
+        }
+      ]
+    },
+    {
+      "workoutID": 2,
+      "workoutName": "Workout 2 - Bouncing workout",
+      "description": "9 Bouncing Balls - 3 bouncers to the right. 3 bouncers to the center. 3 bouncers to the left.",
+      "ballType": "bouncing ball",
+      "workoutDetails": [
+        {
+          "ballId": 2001,
+          "speed": 18.0,
+          "ballDirection": 0.5
+        },
+        {
+          "ballId": 2002,
+          "speed": 22.0,
+          "ballDirection": -0.5
+        },
+        {
+          "ballId": 2003,
+          "speed": 25.0,
+          "ballDirection": 0
+        },
+        {
+          "ballId": 2004,
+          "speed": 30.0,
+          "ballDirection": 0.5
+        },
+        {
+          "ballId": 2005,
+          "speed": 28.0,
+          "ballDirection": -0.5
+        },
+        {
+          "ballId": 2006,
+          "speed": 26.0,
+          "ballDirection": 0
+        },
+        {
+          "ballId": 2007,
+          "speed": 30.0,
+          "ballDirection": 0.5
+        },
+        {
+          "ballId": 2008,
+          "speed": 28.0,
+          "ballDirection": -0.5
+        },
+        {
+          "ballId": 2009,
+          "speed": 26.0,
+          "ballDirection": 0
+        }
+      ]
+    },
+    {
+      "workoutID": 3,
+      "workoutName": "Workout 3 - LineDrive workout",
+      "description": "9 Linedrive Balls - 3 drivers to the right. 3 drivers to the center. 3 drivers to the left.",
+      "ballType": "linedrive ball",
+      "workoutDetails": [
+        {
+          "ballId": 3001,
+          "speed": 18.0,
+          "ballDirection": -0.5
+        },
+        {
+          "ballId": 3002,
+          "speed": 22.0,
+          "ballDirection": 0
+        },
+        {
+          "ballId": 3003,
+          "speed": 23.0,
+          "ballDirection": 0.5
+        },
+        {
+          "ballId": 3004,
+          "speed": 30.0,
+          "ballDirection": 0.5
+        },
+        {
+          "ballId": 3005,
+          "speed": 28.0,
+          "ballDirection": -0.5
+        },
+        {
+          "ballId": 3006,
+          "speed": 26.0,
+          "ballDirection": 0
+        },
+        {
+          "ballId": 3007,
+          "speed": 30.0,
+          "ballDirection": 0.5
+        },
+        {
+          "ballId": 3008,
+          "speed": 28.0,
+          "ballDirection": -0.5
+        },
+        {
+          "ballId": 3009,
+          "speed": 26.0,
+          "ballDirection": 0
+        }
+      ]
+    },
+    {
+      "workoutID": 4,
+      "workoutName": "Workout 4 - Roll workout",
+      "description": "9 Rolling Balls - 3 rollers to the right. 3 rollers to the center. 3 rollers to the left.",
+      "ballType": "rolling ball",
+      "workoutDetails": [
+        {
+          "ballId": 4001,
+          "speed": 20.0,
+          "ballDirection": 0.5
+        },
+        {
+          "ballId": 4002,
+          "speed": 22.0,
+          "ballDirection": -0.5
+        },
+        {
+          "ballId": 4003,
+          "speed": 18.0,
+          "ballDirection": 0
+        },
+        {
+          "ballId": 4004,
+          "speed": 30.0,
+          "ballDirection": 0.5
+        },
+        {
+          "ballId": 4005,
+          "speed": 28.0,
+          "ballDirection": 0
+        },
+        {
+          "ballId": 4006,
+          "speed": 26.0,
+          "ballDirection": -0.5
+        },
+
+        {
+          "ballId": 4007,
+          "speed": 30.0,
+          "ballDirection": 0.5
+        },
+        {
+          "ballId": 4008,
+          "speed": 28.0,
+          "ballDirection": 0
+        },
+        {
+          "ballId": 4009,
+          "speed": 26.0,
+          "ballDirection": -0.5
+        }
+      ]
+    },
+    {
+      "workoutID": 5,
+      "workoutName": "Workout 5 - Popup workout",
+      "description": "9 Popup Balls - 3 poppers to the right. 3 poppers to the center. 3 poppers to the left.",
+      "ballType": "pop-up ball",
+      "workoutDetails": [
+        {
+          "ballId": 5001,
+          "speed": 45.0,
+          "ballDirection": 0.5
+        },
+        {
+          "ballId": 5002,
+          "speed": 43.0,
+          "ballDirection": 0
+        },
+        {
+          "ballId": 5003,
+          "speed": 46.0,
+          "ballDirection": 0
+        },
+        {
+          "ballId": 5004,
+          "speed": 47.0,
+          "ballDirection": 0.5
+        },
+        {
+          "ballId": 5005,
+          "speed": 48.0,
+          "ballDirection": -0.5
+        },
+        {
+          "ballId": 5006,
+          "speed": 46.0,
+          "ballDirection": -0.5
+        },
+        {
+          "ballId": 5007,
+          "speed": 46.0,
+          "ballDirection": 0
+        },
+        {
+          "ballId": 5008,
+          "speed": 47.0,
+          "ballDirection": 0.5
+        },
+        {
+          "ballId": 5009,
+          "speed": 48.0,
+          "ballDirection": -0.5
+        }
+      ]
+    },
+    {
+      "workoutID": 6,
+      "workoutName": "Workout 6 - Popup workout",
+      "description": "9 Popup Balls - 3 poppers to the right. 3 poppers to the center. 3 poppers to the left.",
+      "ballType": "pop-up ball",
+      "workoutDetails": [
+        {
+          "ballId": 6001,
+          "speed": 44.0,
+          "ballDirection": 0.5
+        },
+        {
+          "ballId": 6002,
+          "speed": 46.0,
+          "ballDirection": -0.5
+        },
+        {
+          "ballId": 6003,
+          "speed": 48.0,
+          "ballDirection": 0
+        },
+        {
+          "ballId": 6004,
+          "speed": 40.0,
+          "ballDirection": 0.5
+        },
+        {
+          "ballId": 6005,
+          "speed": 50.0,
+          "ballDirection": -0.5
+        },
+        {
+          "ballId": 6006,
+          "speed": 42.0,
+          "ballDirection": 0
+        },
+        {
+          "ballId": 6007,
+          "speed": 40.0,
+          "ballDirection": 0.5
+        },
+        {
+          "ballId": 6008,
+          "speed": 50.0,
+          "ballDirection": -0.5
+        },
+        {
+          "ballId": 6009,
+          "speed": 42.0,
+          "ballDirection": 0
+        }
+      ]
+    }
+  ]
+}
